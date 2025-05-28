@@ -28,7 +28,3 @@ git clone https://github.com/ericstober/form-validator.git
 - Validates email format.
 - Minimum length for input.
 - Maximum length for input.
-
-## License
-
-This project is licensed under the MIT License.
